@@ -12,7 +12,7 @@ ABC 085   B C
 ABC 086 A   C  
 ABC 087   B  
 ABC 088   B  
-ABC 117 A B  
+ABC 117 A B C  
 ## Joined Question
 ABC 118 A B(2) C Dx  
 ABC 119 A B Cx Dx
