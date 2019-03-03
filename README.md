@@ -14,5 +14,6 @@ ABC 087   B
 ABC 088   B  
 ABC 117 A B C  
 ## Joined Question
-ABC 118 A B(2) C Dx  
-ABC 119 A B Cx Dx
+ABC 118 Ao Bo(2) Co Dx  
+ABC 119 Ao Bo Cx Dx  
+ABC 120 Ao Bo Co Dx
