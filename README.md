@@ -18,3 +18,7 @@ ABC 121 A B C D
 ABC 118 Ao Bo(2) Co Dx  
 ABC 119 Ao Bo Cx Dx  
 ABC 120 Ao Bo Co Dx
+
+## Algorithm
+Recursive Function  
+Stack
