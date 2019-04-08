@@ -21,4 +21,5 @@ ABC 120 Ao Bo Co Dx
 
 ## Algorithm
 Recursive Function  
-Stack
+Stack  
+Queue
