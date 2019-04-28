@@ -1,7 +1,7 @@
 # Accumulation(累積和)
 累積を取る問題の解き方系列をまとめたい、まとめたくない？  
 例題を見た方が良い  
-_問題_  
+[問題](https://qiita.com/iwakiriK/items/453cc9dc3b07f1999acc)
 整数N,Mが与えられる。N回だけ整数Aiが与えられ,M回だけ整数L,Rが与えられる。  
 区間ALからARの合計を求めろ。  
 
